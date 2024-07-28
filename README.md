@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whitby-mike
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Tailwind
 - 📫 Email me: mail@michaeledwards.me.uk
 
 <!---
